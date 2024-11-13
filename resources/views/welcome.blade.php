@@ -47,6 +47,7 @@
                     <p class="tracking-wide md:tracking-tight mt-2">
                     {{ $info->description }}
                     </p>
+                    <strong>{{ $info->created_at }}</strong>
                 </div>
             @endforeach
         </div>
