@@ -8,10 +8,6 @@
     @vite('resources/css/app.css')
 </head>
 <body>
-    <p class="text-center text-lg"> 
-        Vous êtes connecter 
-    </p>
-
     
 {{-- Contenu de la page --}}
 
